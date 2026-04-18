@@ -5,13 +5,13 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamrana1270&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrana1270" /> </p>
+<p align="left"> <img src="https://static.vecteezy.com/system/resources/thumbnails/046/035/246/small/business-man-silhouette-man-with-suit-standing-illustration-business-man-logo-vector.jpg" alt="ankushsharma01" /> </p>
 
 - 🌱 I’m currently learning  * MERN-Stack, Front-End, Back-End, Database.*
 
 - 📫 How to reach me *ankushsharmahp83@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 7807204088</h3>
 <p align="left">
 </p>
 
